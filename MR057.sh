@@ -10,7 +10,7 @@ purple='\033[1;35m'
 reset='\033[0m'
 
 echo "$white
-             ~~~~~DARK FORCE ARMY~~~~~"
+                  ~~~~~DARK FORCE ARMY~~~~~"
 echo "$white  
                 00000000     5555555   7777777#
                 00    00     5              7#
@@ -22,15 +22,15 @@ echo
 echo "$white                    ~~~~~MR.057~~~~~"
 echo
 echo
-echo "$white              ##########################"
-echo "$white              ##    Author : MR.057   ##"
-echo "$white              ##    Versi  : 1.0      ##"
-echo "$white              ##########################"
+echo "$white                ##########################"
+echo "$white                ##    Author : MR.057   ##"
+echo "$white                ##    Versi  : 1.0      ##"
+echo "$white                ##########################"
 echo
 echo
-echo "$red                Tool Termux"
-echo "$white            DARK FORCE ARMY"
-echo "$white          From cyber to brothers"
+echo "$red                           Tool Termux"
+echo "$white                      DARK FORCE ARMY"
+echo "$white                  From cyber to brothers"
 echo
 echo "$white=======Silahkan Pilih=======
 #####MetasploitUser#####
