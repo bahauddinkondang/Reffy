@@ -9,7 +9,8 @@ blue='\033[1;34m'
 purple='\033[1;35m'
 reset='\033[0m'
 
-echo "$white#######DARK FORCE ARMY########"
+echo "$white
+echo             ~~~~~DARK FORCE ARMY~~~~~"
 echo "$white  
              00000000     5555555   7777777#
              00    00     5              7#
@@ -18,12 +19,12 @@ echo "$white
              00000000     555555      7#"
 echo
 echo
-echo "$white               #######MR 057#######"
+echo "$white               ~~~~~MR.057~~~~~"
 echo
 echo
 echo "$white           ##########################"
-echo "$white              ##    Author : MR.057   ##"
-echo "$white              ##    Versi  : 1.0      ##"
+echo "$white            ##    Author : MR.057   ##"
+echo "$white            ##    Versi  : 1.0      ##"
 echo "$white           ##########################"
 echo
 echo
