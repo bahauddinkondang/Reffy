@@ -9,69 +9,71 @@ blue='\033[1;34m'
 purple='\033[1;35m'
 reset='\033[0m'
 
-echo -e "$red#================2EASY4HACK================#"
-echo -e "$green#   _|_|     _|_|_|_|   _|  _|     _|    _|#
-# _|    _|   _|         _|  _|     _|    _|#
-#     _|     _|_|_|     _|_|_|_|   _|_|_|_|#
-#   _|       _|             _|     _|    _|#
-# _|_|_|_|   _|_|_|_|       _|     _|    _|#"
-echo -e "$red#================InYourHeart===============#"
-echo -e "$green ~~~~~~~~~~######~~~~~~~~~~"
-echo -e "$blue | Author : InYourHeart   |"
-echo -e "$blue | Versi  : 1.0           |"
-echo -e "$green ~~~~~~~~~~######~~~~~~~~~~"
-echo -e "$red      Tool Termux!!"
-echo -e "$red To Easy For Hacktivitas:v"
-echo -e "$blue  -_-_-_-_-_-_-_-_-_-_-_-_-_"
-echo -e "$yellow ~~~~~~Silahkan Pilih~~~~~~
-------MetasploitUser------
+echo "$white#######DARK FORCE ARMY########"
+echo "$red#   5555555   7777777#
+# 0000000     5              7#
+# 0     0     555555        7#
+# 0     0          5       7#
+# 0000000     555555      7#"
+echo "$white#######MR.057#######"
+echo "$red     ##########################"
+echo "$white   # Author : MR.057        #"
+echo "$white   # Versi  : 1.0           #"
+echo "$red     ##########################"
+echo "$red             Tool Termux!!"
+echo "$red            DARK FORCE ARMY"
+echo "$white =======Silahkan Pilih=======
+#####MetasploitUser#####
 1.  Install Metasploit
 2.  Install Tmux-Bunch
 3.  Install Ngrok
 4.  Install Shodan
-------**************------
-------PhishingTools-------
+==============================
+#####PhishingTools#####
 5.  Install Weeman
 6.  Install Blackeye
 7.  Install SocialFish (Root)
-------*************-------
--------SosmedTools--------
+==============================
+#####SosmedTools#####
 8.  Install BlackHydra
 9.  Install Cupp
 10. Install MBF
 11. Install Instahack
 12. Install Twiter Sniper
 13. Install Hacktronian
--------***********--------
----------UsersBOT---------
+==============================
+#####UsersBOT#####
 14. Install Instabot
 15. Install Bot Komen Fb
 16. Install Bot Like Fb
 17. Install Chuckyfix
----------********---------
----------Defacers---------
+==============================
+#####Defacer#####
 18. Install Sqlmap
 19. Install LFISuite
 20. Install Bingoo
 21. Install LiteScript
 22. Install XAttacker
 23. Install Diejoubu
-----------Others----------
+==============================
+########OTHERS########
 24. Install Java
 25. Install Fedora
 26. Install Nethunter
 27. Install Debian
 28. Install Ubuntu
 29. Install Kali Linux
-******Special Tools*******
+########################
+======Special Tools======
 30. Install Blackarch
+
 ----------######----------
 00. Exit
 ----------######----------"
 trap ctrl_c INT
 ctrl_c() {
 echo -e "$red(Ctrl + C ) Has Been Detect!! "
-echo -e "$greenOk Sampai Jumpa"
+echo -e "$redOk Sampai Jumpa"
 figlet -f digital " 	We Party InYour System"
 sleep 1
 exit
