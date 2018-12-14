@@ -10,19 +10,23 @@ purple='\033[1;35m'
 reset='\033[0m'
 
 echo "$white#######DARK FORCE ARMY########"
-echo "$red#   5555555   7777777#
-# 0000000     5              7#
-# 0     0     555555        7#
-# 0     0          5       7#
-# 0000000     555555      7#"
-echo "$white#######MR.057#######"
-echo "$red     ##########################"
-echo "$white   # Author : MR.057        #"
-echo "$white   # Versi  : 1.0           #"
-echo "$red     ##########################"
+echo "$red  
+ 00000000     5555555   7777777#
+ 00    00     5              7#
+ 00    00     555555        7#
+ 00    00          5       7#
+ 00000000     555555      7#"
+ 
+ 
+echo "$white         #######MR 057#######"
+echo "$red        ##########################"
+echo "$white      # Author : MR.057        #"
+echo "$white      # Versi  : 1.0           #"
+echo "$red        ##########################"
 echo "$red             Tool Termux!!"
 echo "$red            DARK FORCE ARMY"
-echo "$white =======Silahkan Pilih=======
+
+echo "$white#=======Silahkan Pilih=======#
 #####MetasploitUser#####
 1.  Install Metasploit
 2.  Install Tmux-Bunch
