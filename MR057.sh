@@ -30,7 +30,7 @@ echo
 echo "$red                Tool Termux"
 echo "$white            DARK FORCE ARMY"
 echo "$white          From cyber to brothers"
-echo "$white
+echo
 echo "$white=======Silahkan Pilih=======
 #####MetasploitUser#####
 1.  Install Metasploit
